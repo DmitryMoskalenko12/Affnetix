@@ -1,0 +1,1 @@
+import"./index.scss";import VideoPlayer from"./modules/video";window.addEventListener("DOMContentLoaded",(()=>{new VideoPlayer(".play",".overlay").init()}));
